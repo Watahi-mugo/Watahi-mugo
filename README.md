@@ -1,6 +1,6 @@
 <br clear="both"/>
 
-<h2 align="left">Hi there! 👋 I'm Peter Mugo</h2>
+<h2 align="left">Hi there! 👋 I'm Peter</h2>
 
 <p align="left">
   A creative and detail-oriented <strong>Full-Stack Web Developer</strong> with a passion for building modern, responsive, and high-performing websites from the ground up. I love turning ideas into digital experiences that are both user-friendly and technically sound.
